@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.banner{
+    width: 100%;
+    height: 100vh;
+    background: url("./Desktop_Background.png");
+    display: flex;
+    padding-left: 200px;
+    padding-top: 30px;
+}
+.unner{
+    width: 500px;
+    height: 600px;
+    background: url("./Nitro_Pepsi_CAN_Glass@2x.png") no-repeat center/contain;
+}
+.bunner{
+    width: 500px;
+    height: 620px;
+    background: url("./Nitro_Logo@3x.png") no-repeat center/contain;
+    padding-top: 490px;
+    padding-left: 80px;
+}
+.bunner h1{
+    width: 80%;
+    height: 80%;
+    text-align: center;
+    color: #ddd;
+}
+
+.binner{
+    width: 100%;
+    height: 100vh;
+    background: url("./PZS-tile-background.png") no-repeat center/cover;
+    display: flex;
+    padding-top: 130px;
+    padding-left: 80px;
+} 
+.anner{
+    width: 60%;
+    height: 200px;
+    background: url("./PZS-headline.png") no-repeat center/contain;
+}
+.inner{
+    width: 400px;
+    height: 500px;
+    background: url("./can-pepsi-zero-sugar.png") no-repeat center/contain;
+}
